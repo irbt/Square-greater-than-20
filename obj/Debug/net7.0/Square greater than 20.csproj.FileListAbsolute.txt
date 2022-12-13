@@ -1,0 +1,15 @@
+C:\Mon_Code\Square greater than 20\bin\Debug\net7.0\Square greater than 20.exe
+C:\Mon_Code\Square greater than 20\bin\Debug\net7.0\Square greater than 20.deps.json
+C:\Mon_Code\Square greater than 20\bin\Debug\net7.0\Square greater than 20.runtimeconfig.json
+C:\Mon_Code\Square greater than 20\bin\Debug\net7.0\Square greater than 20.dll
+C:\Mon_Code\Square greater than 20\bin\Debug\net7.0\Square greater than 20.pdb
+C:\Mon_Code\Square greater than 20\obj\Debug\net7.0\Square greater than 20.csproj.AssemblyReference.cache
+C:\Mon_Code\Square greater than 20\obj\Debug\net7.0\Square greater than 20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mon_Code\Square greater than 20\obj\Debug\net7.0\Square greater than 20.AssemblyInfoInputs.cache
+C:\Mon_Code\Square greater than 20\obj\Debug\net7.0\Square greater than 20.AssemblyInfo.cs
+C:\Mon_Code\Square greater than 20\obj\Debug\net7.0\Square greater than 20.csproj.CoreCompileInputs.cache
+C:\Mon_Code\Square greater than 20\obj\Debug\net7.0\Square greater than 20.dll
+C:\Mon_Code\Square greater than 20\obj\Debug\net7.0\refint\Square greater than 20.dll
+C:\Mon_Code\Square greater than 20\obj\Debug\net7.0\Square greater than 20.pdb
+C:\Mon_Code\Square greater than 20\obj\Debug\net7.0\Square greater than 20.genruntimeconfig.cache
+C:\Mon_Code\Square greater than 20\obj\Debug\net7.0\ref\Square greater than 20.dll
